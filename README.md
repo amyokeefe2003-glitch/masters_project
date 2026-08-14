@@ -102,6 +102,7 @@ Unlike Chemprop, these models require pre-engineered molecular representations. 
 Models were primarily evaluated using:
 
 **Root Mean Squared Error (RMSE)** - RMSE emphasises large prediction errors and was used as the principal optimisation/evaluation metric.
+
 **Mean Absolute Error (MAE)** - MAE provides the average absolute difference between experimental and predicted values, therefore giving a more directly interpretable measure of typical prediction error.
 
 Both metrics were evaluated independently for absorption wavelength and log10(ε). Where ensembles or repeated models were used, mean performance and standard deviations were calculated across the individual models.
@@ -113,8 +114,6 @@ Feature importance and SHAP analyses were performed for the RF, XGB and LGBM mod
 ## Deep4Chem and Reaxys
 
 The Deep4Chem dataset was used as the principal benchmark for reproducing and comparing machine learning methodologies. A substantially larger dataset was additionally reconstructed from exported Reaxys UV/Vis spectroscopy records using registry numbers associated with the original research methodology. The extraction workflow was modified during this project to improve handling of multiple spectra, invalid measurements, and numerical errors.
-
-### Reaxys Data Availability
 
 Reaxys is a proprietary Elsevier database. Consequently, raw Reaxys XML exports and the reconstructed Reaxys training/test datasets are not provided in this repository. The associated processing and modelling scripts are retained to document the methodology and allow authorised workflow reproduction using data obtained through their own licensed Reaxys access.
 
