@@ -1,0 +1,3 @@
+Task,Mean rmse,Standard deviation rmse,Fold 0 rmse
+Absorption max (nm),35.367280696701314,0.0,35.367280696701314
+log(e/mol-1 dm3 cm-1),0.3581817882493528,0.0,0.3581817882493528

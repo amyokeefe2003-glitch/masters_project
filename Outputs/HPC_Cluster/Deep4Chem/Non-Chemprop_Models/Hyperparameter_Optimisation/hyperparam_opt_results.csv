@@ -1,0 +1,4 @@
+Model,Best RMSE,Best Parameters
+Random Forest,28.590329259325774,"{'estimator__max_depth': 37, 'estimator__max_features': 0.3, 'estimator__min_samples_leaf': 1, 'estimator__min_samples_split': 5, 'estimator__n_estimators': 710}"
+LightGBM,28.950423238469245,"{'estimator__colsample_bytree': 0.8960982754233623, 'estimator__learning_rate': 0.2788115162527231, 'estimator__max_depth': 4, 'estimator__n_estimators': 929, 'estimator__num_leaves': 271, 'estimator__subsample': 0.9491977382183721}"
+XGBoost,28.104157251957172,"{'estimator__colsample_bytree': 0.7828069625764096, 'estimator__gamma': 0.6009828060658445, 'estimator__learning_rate': 0.09884205925664347, 'estimator__max_depth': 3, 'estimator__min_child_weight': 6.986611828057703, 'estimator__n_estimators': 674, 'estimator__subsample': 0.91426299451467}"

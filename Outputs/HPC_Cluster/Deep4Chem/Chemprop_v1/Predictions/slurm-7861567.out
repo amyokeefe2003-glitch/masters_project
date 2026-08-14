@@ -1,0 +1,612 @@
+Python location:
+/users/rmb20171/miniconda3/envs/chemprop15/bin/python
+Python 3.10.20
+Environment:
+chemprop15
+Failed to find the pandas get_adjustment() function to patch
+Failed to patch pandas - PandasTools will have limited functionality
+/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/torch/cuda/__init__.py:497: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+Loading training args
+Setting molecule featurization parameters to default.
+Loading data
+0it [00:00, ?it/s]2059it [00:00, 266808.95it/s]
+  0%|          | 0/2059 [00:00<?, ?it/s]100%|██████████| 2059/2059 [00:00<00:00, 22509.58it/s]
+Validating SMILES
+Test size = 2,059
+  0%|          | 0/10 [00:00<?, ?it/s]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:50,  1.23s/it][A
+  5%|▍         | 2/42 [00:01<00:24,  1.65it/s][A
+  7%|▋         | 3/42 [00:01<00:16,  2.40it/s][A
+ 10%|▉         | 4/42 [00:01<00:12,  3.01it/s][A
+ 12%|█▏        | 5/42 [00:02<00:10,  3.45it/s][A
+ 14%|█▍        | 6/42 [00:02<00:09,  3.73it/s][A
+ 17%|█▋        | 7/42 [00:02<00:12,  2.91it/s][A
+ 19%|█▉        | 8/42 [00:02<00:10,  3.37it/s][A
+ 21%|██▏       | 9/42 [00:03<00:09,  3.56it/s][A
+ 24%|██▍       | 10/42 [00:03<00:07,  4.17it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  4.88it/s][A
+ 29%|██▊       | 12/42 [00:03<00:06,  4.95it/s][A
+ 31%|███       | 13/42 [00:03<00:05,  5.48it/s][A
+ 33%|███▎      | 14/42 [00:03<00:04,  6.04it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.63it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.13it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.59it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  6.90it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.18it/s][A
+ 48%|████▊     | 20/42 [00:04<00:03,  7.26it/s][A
+ 50%|█████     | 21/42 [00:04<00:02,  7.21it/s][A
+ 52%|█████▏    | 22/42 [00:05<00:02,  7.40it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  6.82it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  6.86it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  5.87it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  6.34it/s][A
+ 64%|██████▍   | 27/42 [00:05<00:02,  6.43it/s][A
+ 67%|██████▋   | 28/42 [00:05<00:02,  6.82it/s][A
+ 69%|██████▉   | 29/42 [00:06<00:01,  6.88it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  6.83it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.30it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.68it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  6.01it/s][A
+ 81%|████████  | 34/42 [00:06<00:01,  6.45it/s][A
+ 83%|████████▎ | 35/42 [00:07<00:01,  6.71it/s][A
+ 86%|████████▌ | 36/42 [00:07<00:00,  7.07it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  6.79it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  5.99it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  5.56it/s][A
+ 95%|█████████▌| 40/42 [00:07<00:00,  5.89it/s][A
+ 98%|█████████▊| 41/42 [00:08<00:00,  5.96it/s][A
+                                               [A 10%|█         | 1/10 [00:08<01:19,  8.80s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:50,  1.24s/it][A
+  5%|▍         | 2/42 [00:01<00:24,  1.63it/s][A
+  7%|▋         | 3/42 [00:01<00:17,  2.24it/s][A
+ 10%|▉         | 4/42 [00:01<00:14,  2.67it/s][A
+ 12%|█▏        | 5/42 [00:02<00:14,  2.63it/s][A
+ 14%|█▍        | 6/42 [00:02<00:11,  3.06it/s][A
+ 17%|█▋        | 7/42 [00:03<00:13,  2.69it/s][A
+ 19%|█▉        | 8/42 [00:03<00:10,  3.14it/s][A
+ 21%|██▏       | 9/42 [00:03<00:09,  3.36it/s][A
+ 24%|██▍       | 10/42 [00:03<00:08,  3.99it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  4.66it/s][A
+ 29%|██▊       | 12/42 [00:03<00:06,  4.67it/s][A
+ 31%|███       | 13/42 [00:04<00:05,  5.16it/s][A
+ 33%|███▎      | 14/42 [00:04<00:04,  5.75it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.47it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  5.95it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.40it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  6.72it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.07it/s][A
+ 48%|████▊     | 20/42 [00:05<00:03,  7.19it/s][A
+ 50%|█████     | 21/42 [00:05<00:02,  7.17it/s][A
+ 52%|█████▏    | 22/42 [00:05<00:02,  7.34it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  6.83it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  6.84it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.02it/s][A
+ 62%|██████▏   | 26/42 [00:06<00:02,  6.49it/s][A
+ 64%|██████▍   | 27/42 [00:06<00:02,  6.58it/s][A
+ 67%|██████▋   | 28/42 [00:06<00:01,  7.02it/s][A
+ 69%|██████▉   | 29/42 [00:06<00:01,  6.95it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  6.90it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.16it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.55it/s][A
+ 79%|███████▊  | 33/42 [00:07<00:01,  5.92it/s][A
+ 81%|████████  | 34/42 [00:07<00:01,  6.28it/s][A
+ 83%|████████▎ | 35/42 [00:07<00:01,  6.44it/s][A
+ 86%|████████▌ | 36/42 [00:07<00:00,  6.75it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  6.65it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  5.94it/s][A
+ 93%|█████████▎| 39/42 [00:08<00:00,  5.50it/s][A
+ 95%|█████████▌| 40/42 [00:08<00:00,  5.86it/s][A
+ 98%|█████████▊| 41/42 [00:08<00:00,  5.69it/s][A
+                                               [A 20%|██        | 2/10 [00:19<01:17,  9.63s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:46,  1.13s/it][A
+  5%|▍         | 2/42 [00:01<00:22,  1.77it/s][A
+  7%|▋         | 3/42 [00:01<00:15,  2.55it/s][A
+ 10%|▉         | 4/42 [00:01<00:12,  3.14it/s][A
+ 12%|█▏        | 5/42 [00:01<00:10,  3.61it/s][A
+ 14%|█▍        | 6/42 [00:02<00:09,  3.80it/s][A
+ 17%|█▋        | 7/42 [00:02<00:11,  3.07it/s][A
+ 19%|█▉        | 8/42 [00:02<00:09,  3.52it/s][A
+ 21%|██▏       | 9/42 [00:03<00:09,  3.64it/s][A
+ 24%|██▍       | 10/42 [00:03<00:07,  4.33it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  5.01it/s][A
+ 29%|██▊       | 12/42 [00:03<00:06,  4.92it/s][A
+ 31%|███       | 13/42 [00:03<00:05,  5.52it/s][A
+ 33%|███▎      | 14/42 [00:03<00:04,  6.13it/s][A
+ 36%|███▌      | 15/42 [00:03<00:04,  5.73it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.28it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.74it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  7.16it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.55it/s][A
+ 48%|████▊     | 20/42 [00:04<00:02,  7.70it/s][A
+ 50%|█████     | 21/42 [00:04<00:02,  7.72it/s][A
+ 52%|█████▏    | 22/42 [00:04<00:02,  7.95it/s][A
+ 55%|█████▍    | 23/42 [00:04<00:02,  7.35it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  7.31it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.54it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  6.97it/s][A
+ 64%|██████▍   | 27/42 [00:05<00:02,  7.10it/s][A
+ 67%|██████▋   | 28/42 [00:05<00:01,  7.52it/s][A
+ 69%|██████▉   | 29/42 [00:05<00:01,  7.49it/s][A
+ 71%|███████▏  | 30/42 [00:05<00:01,  7.30it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.51it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.78it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  6.13it/s][A
+ 81%|████████  | 34/42 [00:06<00:01,  6.52it/s][A
+ 83%|████████▎ | 35/42 [00:06<00:01,  6.75it/s][A
+ 86%|████████▌ | 36/42 [00:06<00:00,  7.17it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  7.06it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  6.58it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  6.01it/s][A
+ 95%|█████████▌| 40/42 [00:07<00:00,  6.32it/s][A
+ 98%|█████████▊| 41/42 [00:07<00:00,  6.14it/s][A
+                                               [A 30%|███       | 3/10 [00:28<01:07,  9.68s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:51,  1.25s/it][A
+  5%|▍         | 2/42 [00:01<00:25,  1.60it/s][A
+  7%|▋         | 3/42 [00:01<00:16,  2.36it/s][A
+ 10%|▉         | 4/42 [00:01<00:13,  2.87it/s][A
+ 12%|█▏        | 5/42 [00:02<00:12,  2.97it/s][A
+ 14%|█▍        | 6/42 [00:02<00:10,  3.41it/s][A
+ 17%|█▋        | 7/42 [00:02<00:12,  2.79it/s][A
+ 19%|█▉        | 8/42 [00:03<00:10,  3.25it/s][A
+ 21%|██▏       | 9/42 [00:03<00:10,  3.03it/s][A
+ 24%|██▍       | 10/42 [00:03<00:08,  3.70it/s][A
+ 26%|██▌       | 11/42 [00:03<00:07,  4.38it/s][A
+ 29%|██▊       | 12/42 [00:03<00:06,  4.59it/s][A
+ 31%|███       | 13/42 [00:04<00:05,  5.09it/s][A
+ 33%|███▎      | 14/42 [00:04<00:04,  5.76it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.52it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.04it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.50it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  6.95it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.40it/s][A
+ 48%|████▊     | 20/42 [00:04<00:02,  7.56it/s][A
+ 50%|█████     | 21/42 [00:05<00:02,  7.51it/s][A
+ 52%|█████▏    | 22/42 [00:05<00:02,  7.81it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  7.34it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  7.29it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.47it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  6.91it/s][A
+ 64%|██████▍   | 27/42 [00:06<00:02,  6.93it/s][A
+ 67%|██████▋   | 28/42 [00:06<00:01,  7.42it/s][A
+ 69%|██████▉   | 29/42 [00:06<00:01,  7.37it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  7.21it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.33it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.56it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  5.90it/s][A
+ 81%|████████  | 34/42 [00:07<00:01,  6.35it/s][A
+ 83%|████████▎ | 35/42 [00:07<00:01,  6.66it/s][A
+ 86%|████████▌ | 36/42 [00:07<00:00,  7.12it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  6.97it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  6.39it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  5.86it/s][A
+ 95%|█████████▌| 40/42 [00:08<00:00,  6.18it/s][A
+ 98%|█████████▊| 41/42 [00:08<00:00,  6.17it/s][A
+                                               [A 40%|████      | 4/10 [00:38<00:58,  9.73s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:53,  1.30s/it][A
+  5%|▍         | 2/42 [00:01<00:25,  1.58it/s][A
+  7%|▋         | 3/42 [00:01<00:16,  2.33it/s][A
+ 10%|▉         | 4/42 [00:01<00:12,  2.96it/s][A
+ 12%|█▏        | 5/42 [00:02<00:10,  3.45it/s][A
+ 14%|█▍        | 6/42 [00:02<00:09,  3.76it/s][A
+ 17%|█▋        | 7/42 [00:02<00:11,  3.11it/s][A
+ 19%|█▉        | 8/42 [00:02<00:09,  3.57it/s][A
+ 21%|██▏       | 9/42 [00:03<00:09,  3.66it/s][A
+ 24%|██▍       | 10/42 [00:03<00:07,  4.29it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  4.98it/s][A
+ 29%|██▊       | 12/42 [00:03<00:06,  4.88it/s][A
+ 31%|███       | 13/42 [00:03<00:05,  5.43it/s][A
+ 33%|███▎      | 14/42 [00:03<00:04,  6.06it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.87it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.41it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.84it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  7.23it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.62it/s][A
+ 48%|████▊     | 20/42 [00:04<00:02,  7.77it/s][A
+ 50%|█████     | 21/42 [00:04<00:02,  7.76it/s][A
+ 52%|█████▏    | 22/42 [00:04<00:02,  7.99it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  7.54it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  7.50it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.60it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  7.05it/s][A
+ 64%|██████▍   | 27/42 [00:05<00:02,  7.13it/s][A
+ 67%|██████▋   | 28/42 [00:05<00:01,  7.31it/s][A
+ 69%|██████▉   | 29/42 [00:05<00:01,  7.37it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  7.29it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.48it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.73it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  6.13it/s][A
+ 81%|████████  | 34/42 [00:06<00:01,  6.56it/s][A
+ 83%|████████▎ | 35/42 [00:06<00:01,  6.81it/s][A
+ 86%|████████▌ | 36/42 [00:07<00:00,  7.26it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  7.14it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  6.64it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  6.44it/s][A
+ 95%|█████████▌| 40/42 [00:07<00:00,  6.67it/s][A
+ 98%|█████████▊| 41/42 [00:07<00:00,  6.45it/s][A
+                                               [A 50%|█████     | 5/10 [00:48<00:48,  9.73s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:49,  1.20s/it][A
+  5%|▍         | 2/42 [00:01<00:24,  1.65it/s][A
+  7%|▋         | 3/42 [00:01<00:16,  2.41it/s][A
+ 10%|▉         | 4/42 [00:01<00:12,  2.97it/s][A
+ 12%|█▏        | 5/42 [00:02<00:11,  3.27it/s][A
+ 14%|█▍        | 6/42 [00:02<00:09,  3.67it/s][A
+ 17%|█▋        | 7/42 [00:02<00:13,  2.67it/s][A
+ 19%|█▉        | 8/42 [00:03<00:10,  3.13it/s][A
+ 21%|██▏       | 9/42 [00:03<00:09,  3.35it/s][A
+ 24%|██▍       | 10/42 [00:03<00:07,  4.02it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  4.66it/s][A
+ 29%|██▊       | 12/42 [00:03<00:06,  4.74it/s][A
+ 31%|███       | 13/42 [00:03<00:05,  5.26it/s][A
+ 33%|███▎      | 14/42 [00:04<00:04,  5.85it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.57it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.13it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.56it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  6.95it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.38it/s][A
+ 48%|████▊     | 20/42 [00:04<00:02,  7.56it/s][A
+ 50%|█████     | 21/42 [00:05<00:02,  7.32it/s][A
+ 52%|█████▏    | 22/42 [00:05<00:02,  7.63it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  7.09it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  7.13it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.33it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  6.83it/s][A
+ 64%|██████▍   | 27/42 [00:05<00:02,  6.87it/s][A
+ 67%|██████▋   | 28/42 [00:05<00:01,  7.33it/s][A
+ 69%|██████▉   | 29/42 [00:06<00:01,  7.33it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  7.13it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.20it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.38it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  5.81it/s][A
+ 81%|████████  | 34/42 [00:07<00:01,  6.27it/s][A
+ 83%|████████▎ | 35/42 [00:07<00:01,  6.46it/s][A
+ 86%|████████▌ | 36/42 [00:07<00:00,  6.87it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  6.75it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  6.23it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  5.72it/s][A
+ 95%|█████████▌| 40/42 [00:07<00:00,  6.03it/s][A
+ 98%|█████████▊| 41/42 [00:08<00:00,  5.83it/s][A
+                                               [A 60%|██████    | 6/10 [00:58<00:39,  9.88s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:51,  1.26s/it][A
+  5%|▍         | 2/42 [00:01<00:24,  1.60it/s][A
+  7%|▋         | 3/42 [00:01<00:16,  2.35it/s][A
+ 10%|▉         | 4/42 [00:01<00:12,  2.96it/s][A
+ 12%|█▏        | 5/42 [00:02<00:10,  3.47it/s][A
+ 14%|█▍        | 6/42 [00:02<00:09,  3.84it/s][A
+ 17%|█▋        | 7/42 [00:02<00:11,  3.11it/s][A
+ 19%|█▉        | 8/42 [00:02<00:09,  3.56it/s][A
+ 21%|██▏       | 9/42 [00:03<00:08,  3.70it/s][A
+ 24%|██▍       | 10/42 [00:03<00:07,  4.35it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  5.02it/s][A
+ 29%|██▊       | 12/42 [00:03<00:05,  5.12it/s][A
+ 31%|███       | 13/42 [00:03<00:05,  5.62it/s][A
+ 33%|███▎      | 14/42 [00:03<00:04,  6.15it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.89it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.38it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.40it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  6.88it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.32it/s][A
+ 48%|████▊     | 20/42 [00:04<00:02,  7.49it/s][A
+ 50%|█████     | 21/42 [00:04<00:02,  7.56it/s][A
+ 52%|█████▏    | 22/42 [00:04<00:02,  7.78it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  7.42it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  7.41it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.68it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  7.11it/s][A
+ 64%|██████▍   | 27/42 [00:05<00:02,  7.24it/s][A
+ 67%|██████▋   | 28/42 [00:05<00:01,  7.68it/s][A
+ 69%|██████▉   | 29/42 [00:05<00:01,  7.63it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  7.27it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.62it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.92it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  6.20it/s][A
+ 81%|████████  | 34/42 [00:06<00:01,  6.61it/s][A
+ 83%|████████▎ | 35/42 [00:06<00:01,  6.87it/s][A
+ 86%|████████▌ | 36/42 [00:06<00:00,  7.30it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  7.20it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  6.73it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  6.28it/s][A
+ 95%|█████████▌| 40/42 [00:07<00:00,  6.57it/s][A
+ 98%|█████████▊| 41/42 [00:07<00:00,  6.43it/s][A
+                                               [A 70%|███████   | 7/10 [01:08<00:29,  9.78s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:52,  1.27s/it][A
+  5%|▍         | 2/42 [00:01<00:25,  1.58it/s][A
+  7%|▋         | 3/42 [00:01<00:16,  2.31it/s][A
+ 10%|▉         | 4/42 [00:01<00:13,  2.90it/s][A
+ 12%|█▏        | 5/42 [00:02<00:10,  3.40it/s][A
+ 14%|█▍        | 6/42 [00:02<00:09,  3.72it/s][A
+ 17%|█▋        | 7/42 [00:02<00:13,  2.68it/s][A
+ 19%|█▉        | 8/42 [00:03<00:10,  3.11it/s][A
+ 21%|██▏       | 9/42 [00:03<00:09,  3.30it/s][A
+ 24%|██▍       | 10/42 [00:03<00:08,  3.96it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  4.66it/s][A
+ 29%|██▊       | 12/42 [00:03<00:06,  4.88it/s][A
+ 31%|███       | 13/42 [00:03<00:05,  5.44it/s][A
+ 33%|███▎      | 14/42 [00:04<00:04,  6.04it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.78it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.30it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.58it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  6.64it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.08it/s][A
+ 48%|████▊     | 20/42 [00:04<00:03,  7.31it/s][A
+ 50%|█████     | 21/42 [00:05<00:02,  7.39it/s][A
+ 52%|█████▏    | 22/42 [00:05<00:02,  7.68it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  7.22it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  7.18it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.36it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  6.81it/s][A
+ 64%|██████▍   | 27/42 [00:05<00:02,  6.86it/s][A
+ 67%|██████▋   | 28/42 [00:06<00:01,  7.31it/s][A
+ 69%|██████▉   | 29/42 [00:06<00:01,  7.28it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  7.19it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.35it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.60it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  5.97it/s][A
+ 81%|████████  | 34/42 [00:07<00:01,  6.38it/s][A
+ 83%|████████▎ | 35/42 [00:07<00:01,  6.53it/s][A
+ 86%|████████▌ | 36/42 [00:07<00:00,  6.95it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  6.81it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  6.17it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  5.75it/s][A
+ 95%|█████████▌| 40/42 [00:07<00:00,  6.08it/s][A
+ 98%|█████████▊| 41/42 [00:08<00:00,  6.02it/s][A
+                                               [A 80%|████████  | 8/10 [01:17<00:19,  9.76s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:52,  1.29s/it][A
+  5%|▍         | 2/42 [00:01<00:25,  1.58it/s][A
+  7%|▋         | 3/42 [00:01<00:16,  2.33it/s][A
+ 10%|▉         | 4/42 [00:01<00:12,  2.93it/s][A
+ 12%|█▏        | 5/42 [00:02<00:10,  3.44it/s][A
+ 14%|█▍        | 6/42 [00:02<00:09,  3.84it/s][A
+ 17%|█▋        | 7/42 [00:02<00:11,  3.14it/s][A
+ 19%|█▉        | 8/42 [00:02<00:09,  3.54it/s][A
+ 21%|██▏       | 9/42 [00:03<00:08,  3.69it/s][A
+ 24%|██▍       | 10/42 [00:03<00:07,  4.35it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  5.05it/s][A
+ 29%|██▊       | 12/42 [00:03<00:06,  4.78it/s][A
+ 31%|███       | 13/42 [00:03<00:05,  5.39it/s][A
+ 33%|███▎      | 14/42 [00:03<00:04,  6.02it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.75it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.21it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.66it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  7.05it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.48it/s][A
+ 48%|████▊     | 20/42 [00:04<00:02,  7.66it/s][A
+ 50%|█████     | 21/42 [00:04<00:02,  7.64it/s][A
+ 52%|█████▏    | 22/42 [00:04<00:02,  7.90it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  7.61it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  7.52it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.54it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  6.97it/s][A
+ 64%|██████▍   | 27/42 [00:05<00:02,  7.09it/s][A
+ 67%|██████▋   | 28/42 [00:05<00:01,  7.22it/s][A
+ 69%|██████▉   | 29/42 [00:05<00:01,  7.28it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  7.24it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  6.65it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.95it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  6.32it/s][A
+ 81%|████████  | 34/42 [00:06<00:01,  6.70it/s][A
+ 83%|████████▎ | 35/42 [00:06<00:01,  6.93it/s][A
+ 86%|████████▌ | 36/42 [00:06<00:00,  7.35it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  7.23it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  6.79it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  6.50it/s][A
+ 95%|█████████▌| 40/42 [00:07<00:00,  6.76it/s][A
+ 98%|█████████▊| 41/42 [00:07<00:00,  6.48it/s][A
+                                               [A 90%|█████████ | 9/10 [01:26<00:09,  9.58s/it]Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "encoder.encoder.1.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.1.W_i.weight".
+Loading pretrained parameter "encoder.encoder.1.W_h.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.weight".
+Loading pretrained parameter "encoder.encoder.1.W_o.bias".
+Loading pretrained parameter "ffn.1.weight".
+Loading pretrained parameter "ffn.1.bias".
+Loading pretrained parameter "ffn.4.weight".
+Loading pretrained parameter "ffn.4.bias".
+Loading pretrained parameter "ffn.7.weight".
+Loading pretrained parameter "ffn.7.bias".
+
+  0%|          | 0/42 [00:00<?, ?it/s][A
+  2%|▏         | 1/42 [00:01<00:56,  1.37s/it][A
+  5%|▍         | 2/42 [00:01<00:26,  1.50it/s][A
+  7%|▋         | 3/42 [00:01<00:17,  2.21it/s][A
+ 10%|▉         | 4/42 [00:01<00:13,  2.84it/s][A
+ 12%|█▏        | 5/42 [00:02<00:11,  3.34it/s][A
+ 14%|█▍        | 6/42 [00:02<00:09,  3.74it/s][A
+ 17%|█▋        | 7/42 [00:02<00:11,  2.96it/s][A
+ 19%|█▉        | 8/42 [00:03<00:09,  3.43it/s][A
+ 21%|██▏       | 9/42 [00:03<00:09,  3.57it/s][A
+ 24%|██▍       | 10/42 [00:03<00:07,  4.22it/s][A
+ 26%|██▌       | 11/42 [00:03<00:06,  4.89it/s][A
+ 29%|██▊       | 12/42 [00:03<00:05,  5.10it/s][A
+ 31%|███       | 13/42 [00:03<00:05,  5.60it/s][A
+ 33%|███▎      | 14/42 [00:03<00:04,  6.08it/s][A
+ 36%|███▌      | 15/42 [00:04<00:04,  5.62it/s][A
+ 38%|███▊      | 16/42 [00:04<00:04,  6.11it/s][A
+ 40%|████      | 17/42 [00:04<00:03,  6.57it/s][A
+ 43%|████▎     | 18/42 [00:04<00:03,  7.01it/s][A
+ 45%|████▌     | 19/42 [00:04<00:03,  7.45it/s][A
+ 48%|████▊     | 20/42 [00:04<00:02,  7.61it/s][A
+ 50%|█████     | 21/42 [00:04<00:02,  7.62it/s][A
+ 52%|█████▏    | 22/42 [00:05<00:02,  7.89it/s][A
+ 55%|█████▍    | 23/42 [00:05<00:02,  7.44it/s][A
+ 57%|█████▋    | 24/42 [00:05<00:02,  7.40it/s][A
+ 60%|█████▉    | 25/42 [00:05<00:02,  6.38it/s][A
+ 62%|██████▏   | 26/42 [00:05<00:02,  6.84it/s][A
+ 64%|██████▍   | 27/42 [00:05<00:02,  6.97it/s][A
+ 67%|██████▋   | 28/42 [00:05<00:01,  7.46it/s][A
+ 69%|██████▉   | 29/42 [00:06<00:01,  7.09it/s][A
+ 71%|███████▏  | 30/42 [00:06<00:01,  6.95it/s][A
+ 74%|███████▍  | 31/42 [00:06<00:01,  5.99it/s][A
+ 76%|███████▌  | 32/42 [00:06<00:01,  5.24it/s][A
+ 79%|███████▊  | 33/42 [00:06<00:01,  5.64it/s][A
+ 81%|████████  | 34/42 [00:06<00:01,  6.15it/s][A
+ 83%|████████▎ | 35/42 [00:07<00:01,  6.44it/s][A
+ 86%|████████▌ | 36/42 [00:07<00:00,  6.88it/s][A
+ 88%|████████▊ | 37/42 [00:07<00:00,  6.84it/s][A
+ 90%|█████████ | 38/42 [00:07<00:00,  6.36it/s][A
+ 93%|█████████▎| 39/42 [00:07<00:00,  5.87it/s][A
+ 95%|█████████▌| 40/42 [00:07<00:00,  6.16it/s][A
+ 98%|█████████▊| 41/42 [00:08<00:00,  6.15it/s][A
+                                               [A100%|██████████| 10/10 [01:36<00:00,  9.62s/it]100%|██████████| 10/10 [01:36<00:00,  9.67s/it]
+Saving predictions to ensemble_preds.csv
+Elapsed time = 0:01:38
+chemprop_predict --test_path d4c_test.csv --checkpoint_dir /users/rmb20171/Deep4Chem/results/deep4chem_chemprop/reproduce_d4c_chemprop_full/real_training/folds/ --number_of_molecules 2 --num_workers 16 --preds_path ensemble_preds.csv --individual_ensemble_predictions
+Predicting...
+Finished

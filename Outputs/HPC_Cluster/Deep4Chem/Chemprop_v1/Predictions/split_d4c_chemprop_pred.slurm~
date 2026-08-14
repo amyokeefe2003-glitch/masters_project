@@ -1,0 +1,25 @@
+#!/bin/bash
+#SBATCH --export=ALL
+#SBATCH --partition=teaching
+#SBATCH --account=teaching
+#SBATCH --distribution=cyclic
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=16
+#SBATCH --mem=64G
+#SBATCH --time=48:00:00
+#SBATCH --job-name=d4c_chemprop_pred
+#SBATCH --output=slurm-%j.out
+
+source /users/rmb20171/miniconda3/etc/profile.d/conda.sh
+conda activate chemprop15
+
+echo 'Python location:'
+which python
+python --version
+
+echo 'Environment:'
+echo $CONDA_DEFAULT_ENV
+
+cd /users/rmb20171/Deep4Chem/results/deep4chem_chemprop/reproduce_d4c_chemprop_full/real_predictions/
+
+python d4c_chemprop_pred.py

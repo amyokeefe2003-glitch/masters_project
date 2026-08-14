@@ -1,0 +1,1328 @@
+Python location:
+/users/rmb20171/miniconda3/envs/chemprop15/bin/python
+Python 3.10.20
+Environment:
+chemprop15
+Loading and preprocessing dataset...
+Removing columns:
+['Chrom_Ipc']
+Optimising Random Forest hyperparameters...
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+[LightGBM] [Fatal] Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py:378: FitFailedWarning: 
+250 fits failed out of a total of 300.
+The score on these train-test partitions for these parameters will be set to nan.
+If these failures are not expected, you can try to debug them by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+170 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/sklearn.py", line 895, in fit
+    super().fit(X, y, sample_weight=sample_weight, init_score=init_score,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/sklearn.py", line 748, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/engine.py", line 271, in train
+    booster = Booster(params=params, train_set=train_set)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 2605, in __init__
+    train_set.construct()
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 1815, in construct
+    self._lazy_init(self.data, label=self.label,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 1538, in _lazy_init
+    self.__init_from_np2d(data, params_str, ref_dataset)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 1659, in __init_from_np2d
+    _safe_call(_LIB.LGBM_DatasetCreateFromMat(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 125, in _safe_call
+    raise LightGBMError(_LIB.LGBM_GetLastError().decode('utf-8'))
+lightgbm.basic.LightGBMError: Check failed: (bagging_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 357 .
+
+
+--------------------------------------------------------------------------------
+80 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/sklearn.py", line 895, in fit
+    super().fit(X, y, sample_weight=sample_weight, init_score=init_score,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/sklearn.py", line 748, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/engine.py", line 271, in train
+    booster = Booster(params=params, train_set=train_set)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 2605, in __init__
+    train_set.construct()
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 1815, in construct
+    self._lazy_init(self.data, label=self.label,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 1538, in _lazy_init
+    self.__init_from_np2d(data, params_str, ref_dataset)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 1659, in __init_from_np2d
+    _safe_call(_LIB.LGBM_DatasetCreateFromMat(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/lightgbm/basic.py", line 125, in _safe_call
+    raise LightGBMError(_LIB.LGBM_GetLastError().decode('utf-8'))
+lightgbm.basic.LightGBMError: Check failed: (feature_fraction) <= (1.0) at /home/conda/feedstock_root/build_artifacts/lightgbm_1674563383654/work/compile/src/io/config_auto.cpp, line 373 .
+
+
+  warnings.warn(some_fits_failed_message, FitFailedWarning)
+/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_search.py:952: UserWarning: One or more of the test scores are non-finite: [         nan          nan -30.3513933           nan          nan
+          nan          nan          nan          nan -29.6210647
+          nan          nan          nan          nan          nan
+          nan          nan          nan -29.84104154 -30.69405887
+          nan          nan -28.95042324          nan          nan
+          nan          nan          nan          nan          nan]
+  warnings.warn(
+/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py:378: FitFailedWarning: 
+220 fits failed out of a total of 300.
+The score on these train-test partitions for these parameters will be set to nan.
+If these failures are not expected, you can try to debug them by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.04881 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.45716 for Parameter subsample exceed bound [0,1]
+subsample: Row subsample ratio of training instance.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.13992 for Parameter subsample exceed bound [0,1]
+subsample: Row subsample ratio of training instance.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.23692 for Parameter subsample exceed bound [0,1]
+subsample: Row subsample ratio of training instance.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.4026 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.17064 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.13427 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.47646 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.07595 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.06962 for Parameter subsample exceed bound [0,1]
+subsample: Row subsample ratio of training instance.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.20374 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.13892 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.26702 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.08847 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.37845 for Parameter subsample exceed bound [0,1]
+subsample: Row subsample ratio of training instance.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.46896 for Parameter subsample exceed bound [0,1]
+subsample: Row subsample ratio of training instance.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.03702 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.36813 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.0691 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.25 for Parameter subsample exceed bound [0,1]
+subsample: Row subsample ratio of training instance.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.12148 for Parameter subsample exceed bound [0,1]
+subsample: Row subsample ratio of training instance.
+
+--------------------------------------------------------------------------------
+10 fits failed with the following error:
+Traceback (most recent call last):
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 216, in fit
+    self.estimators_ = Parallel(n_jobs=self.n_jobs)(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 63, in __call__
+    return super().__call__(iterable_with_config)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1986, in __call__
+    return output if self.return_generator else list(output)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/joblib/parallel.py", line 1914, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/utils/parallel.py", line 123, in __call__
+    return self.function(*args, **kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/multioutput.py", line 49, in _fit_estimator
+    estimator.fit(X, y, **fit_params)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/sklearn.py", line 1025, in fit
+    self._Booster = train(
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/training.py", line 185, in train
+    bst.update(dtrain, i, obj)
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 1918, in update
+    _check_call(_LIB.XGBoosterUpdateOneIter(self.handle,
+  File "/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/xgboost/core.py", line 279, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: value 1.07723 for Parameter colsample_bytree exceed bound [0,1]
+colsample_bytree: Subsample ratio of columns, resample on each tree construction.
+
+  warnings.warn(some_fits_failed_message, FitFailedWarning)
+/users/rmb20171/miniconda3/envs/chemprop15/lib/python3.10/site-packages/sklearn/model_selection/_search.py:952: UserWarning: One or more of the test scores are non-finite: [         nan -30.210931            nan          nan          nan
+ -28.34104882          nan          nan          nan -28.83109763
+ -30.74898865          nan -28.10415725 -30.39633669          nan
+          nan          nan          nan          nan          nan
+          nan          nan -28.77228289          nan          nan
+          nan          nan -29.37421715          nan          nan]
+  warnings.warn(
+{'estimator__max_depth': 37, 'estimator__max_features': 0.3, 'estimator__min_samples_leaf': 1, 'estimator__min_samples_split': 5, 'estimator__n_estimators': 710}
+28.590329259325774
+
+Optimising LightGBM hyperparameters...
+{'estimator__colsample_bytree': 0.8960982754233623, 'estimator__learning_rate': 0.2788115162527231, 'estimator__max_depth': 4, 'estimator__n_estimators': 929, 'estimator__num_leaves': 271, 'estimator__subsample': 0.9491977382183721}
+28.950423238469245
+
+Optimising XGBoost hyperparameters...
+{'estimator__colsample_bytree': 0.7828069625764096, 'estimator__gamma': 0.6009828060658445, 'estimator__learning_rate': 0.09884205925664347, 'estimator__max_depth': 3, 'estimator__min_child_weight': 6.986611828057703, 'estimator__n_estimators': 674, 'estimator__subsample': 0.91426299451467}
+28.104157251957172
+           Model  Best RMSE                                    Best Parameters
+0  Random Forest  28.590329  {'estimator__max_depth': 37, 'estimator__max_f...
+1       LightGBM  28.950423  {'estimator__colsample_bytree': 0.896098275423...
+2        XGBoost  28.104157  {'estimator__colsample_bytree': 0.782806962576...
+Finished
