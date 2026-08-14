@@ -145,12 +145,6 @@ Exact numerical reproduction may depend upon:
 
 The two Chemprop implementations should be treated as related but independent experimental environments due to their differing underlying frameworks.
 
-## Important Notes
-
-- Proprietary Reaxys-derived datasets were intentionally excluded from this repository - access to the database must be obtained independently.
-- Excessively large Chemprop model and checkpoints files are also excluded.
-- File paths within many scripts may require modification for execution on different systems.
-
 ## Software
 
 Major packages used throughout the project include:
@@ -169,6 +163,12 @@ Major packages used throughout the project include:
 - Matplotlib
 
 Package versions differ between the original and modern Chemprop environments and should be reproduced for exact methodological comparisons.
+
+## Important Notes
+
+- Proprietary Reaxys-derived datasets were intentionally excluded from this repository - access to the database must be obtained independently.
+- Excessively large Chemprop model and checkpoints files are also excluded.
+- File paths within many scripts may require modification for execution on different systems.
 
 ## Acknowledgements
 
